@@ -8,7 +8,7 @@
 ## Description
 
 A way for users to submit one minute pitches depending on the category they like.
-The app is live here [Pitchify-pro]().
+The app is live here https://pitchcyci.herokuapp.com/.
 
 ## Getting Started
 
